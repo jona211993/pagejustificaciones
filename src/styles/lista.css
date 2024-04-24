@@ -1,0 +1,15 @@
+.titulo{
+    color: aliceblue;
+    margin-bottom: 50px;
+
+}
+.cont-tabla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-tabla .ta{
+    width: 70%;
+
+} 
